@@ -5,6 +5,9 @@ from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 
+from bs4 import BeautifulSoup as bs
+import json
+
 WebContentID = '1YgCNWrbxPUT9bGaNzVYjY0i6itJj1_Hi'
 PurchasesID = '14WmsBbl2sbo0ctoGiPPR3Pom-h4PisZz'
 DocID = "1549ve2hXhNip_2ofl7MfybbPrkthd-HN"
