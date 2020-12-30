@@ -3,70 +3,104 @@ import json
 
 
 def isTitle(span):
-    if span.attrs['style'][(span.attrs['style'].find("font-weight:")+12):][0]=='7': #checking font weight to see if it's in bold
-        print(span.attrs)
-    return span.attrs['style'][(span.attrs['style'].find("font-weight:")+12):][0]=='7'
-def addImageText(src,style, isBeginning):
+    try:
+        if (span.attrs['style'][(span.attrs['style'].find("font-weight:")+12):][0]=='7'): #checking font weight to see if it's in bold
+            if (span.contents[0]!='\n'): #checking to make sure it's not just a bolded enter
+                return True
+    except:
+        return False
+
+def addImageText(src,style):
     txt = '</p><img src="'+src+'"class="center" style="'+style+'"><p>'
-    if isBeginning:
-        txt = txt+'<p>'
     return txt
+
 def addLinkText(link, text):
     out = '<a href="'+link+'">'+text+'</a>'
     return out
-def format(str): #formats  what?
-    str = str.replace("\n", "")
+
+def format(str): #formats incoming text to nice readable format
+    str = str.replace("\\n", "")
     str = str.strip()
     str = " "+str
     return str
 
 def parseDoc(fileName): #webscraping done on exported google doc to upload to webserver
-    print("--- Now parsing: '"+fileName+"' ---")
+    print("\n--- Now parsing: '"+fileName+"' ---")
+    print("\n\n\n")
     html = open(fileName, "r")
     soup = bs(html,features="html.parser")
-    spans = soup.body.find_all("span")
-    ps = soup.body.find_all("p")
-    contents = []
+    spans = soup.body.find_all("span") #Google Docs as html are just a bunch of spans that we'll be able to parse
+    print(spans)
+    print("\n\n\n")
+    components = splitSpansByTitle(spans)
+    data = []
     content = {}
-    content['title'] = ''
-    text = ""
-    content['text'] = text
-    url_dict = {}
-    img_dict = {}
-    img_no = 1
-    for span in spans:
-        if len(span.contents)==3:
-            if (span.img):
-                src = span.img['src']
-                style= span.img['style']
-                text = text+addImageText(src, style,len(text))
-            if (span.a):
-                link = span.a['href']
-                text = text + addLinkText(link,format(span.a.contents[0]))
-                url_dict[format(span.a.contents[0]).strip()]=link
+    print(components)
+    print("\n\n\n")
+    for component in components:
+        text = parseSpans(component[1],fileName[9:]) #parse spans for text data
+        if component[0]=="":
+            content['title']=fileName[9:]
         else:
-            if(isTitle(span)):
-                if(len(content['title'])!=0):
-                    content['urls'] = url_dict
-                    content['images'] = img_dict
-                    content['text'] = text
-                    content['project'] = fileName
-                    contents = contents+ [content.copy()]
-                    content['text'] = ""
-                    text = ""
-                    url_dict = {}
-                    img_dict = {}
-                    img_no =1
-                content['title'] = format(span.contents[0])
-            else: #this is where main body text is parsed?
-                tex = format(span.contents[0])
-                if(len(tex)>1):
-                    text = text +"<br>"+ tex
-                print(text)
-    text = format(text)
-    content['urls'] = url_dict
-    content['images'] = img_dict
-    content['text'] = text
-    content['project'] = fileName
-    contents = contents+ [content]
-    return contents
+            content['title'] =component[0]
+        print("\n\n\nAdding title:  ",content['title'])
+        content['text']=text;
+        print("With text:  ", content['text'])
+        content['project']=fileName[9:]
+        print("To project:  ", content['project'])
+        data =data+[content.copy()]
+    print("\n\n\n\n")
+    print(data)
+    return data #this returns a data
+
+
+def isImgOrHref(span):#identifies hyperlinks or images
+    print("Testing if img or link",len(span.contents)==3)
+    return len(span.contents)==3
+
+def parseImg(span):
+    if (span.img):
+        src = span.img['src']
+        style = span.img['style']
+        return addImageText(src, style)
+
+def parseLink(span):
+    link = span.a['href']
+    text = addLinkText(link, format(span.a.contents[0]))
+    return text
+
+def splitSpansByTitle(spans):#splits spans up by bold faced fonts, which will split everything by a step in the components
+    #this algorithm tries to keep the order of the spans the same
+    components = [] #variable named components because of the nature of the paragraphs
+    c =[];
+    title = ""
+    for span in spans:
+        if isTitle(span):
+            components = components+ [[title, c.copy()]]
+            title = format(span.contents[0])
+            c=[]
+        else:
+            c= c+[span]
+    components = components + [[title, c.copy()]]
+    return components
+
+def parseSpans(spans, t): #parses all the spans of a file and returns the content in a dictionary
+    title=t[9:]
+    text = ""
+    added_link = False
+    spans[0]
+    for span in spans:
+        if isImgOrHref(span): #check for images or linked text to add
+            if (span.img):
+                imageAdded = True
+                text = text + parseImg(span)
+            if (span.a):
+                text = text + parseLink(span) #if there's a linked text, do not put in a page break
+                added_link = True
+        else:
+            if (len(span.contents[0]))>1: #if the span contains a lot of text
+                if added_link: #if a link's just been added, do not create a new line
+                    added_link = False
+                    text = text+format(span.contents[0])
+                text = text +"<br>"+ format(span.contents[0]) #add new line for new collection of text
+    return text[4:]

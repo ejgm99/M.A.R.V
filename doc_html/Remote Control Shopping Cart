@@ -1,0 +1,79 @@
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+ </head>
+ <body style="background-color:#ffffff;padding:72pt 72pt 72pt 72pt;max-width:468pt">
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 443.74px; height: 434.50px;">
+    <img alt="" src="https://lh5.googleusercontent.com/rQxehHcgVtzduuPVJp4Oxvd5x4WDgdcC5Aaidu4iDPYjPtfFT7-LDSKOpxHxQNQK8xOA14w1NETpTf9enRM9leUek947T2Vh8gyJR81b606SXrbuuXSKDMK3RqDDCqhHRTvuiaiH" style="width: 443.74px; height: 434.50px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span>
+    Excuse me,
+   </span>
+   <span style="text-decoration-skip-ink:none;-webkit-text-decoration-skip:none;color:#1155cc;text-decoration:underline">
+    <a href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3D5mcqKcdu2uM&amp;sa=D&amp;ust=1608949818091000&amp;usg=AOvVaw0sH6KPr-w0Eka5ciHbUrRB" style="color:inherit;text-decoration:inherit">
+     William Osman
+    </a>
+   </span>
+   <span>
+    is a bro.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Mounting the Hoverboard Wheels
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    This is a testament to 3D printing that probably should not exist, but it does.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Setting up the Odrive to work with Hoverboard Motors
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    This project was rather straightforward with all the hoverboard motors, which was pretty cool. If you want practice designing parts for 3d Printing.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Arduino and Serial Code
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    This part is relatively simple. There’s a lot of documentation for all that jazz.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+ </body>
+</html>

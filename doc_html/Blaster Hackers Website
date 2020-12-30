@@ -1,0 +1,75 @@
+<html>
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+ </head>
+ <body style="background-color:#ffffff;padding:72pt 72pt 72pt 72pt;max-width:468pt">
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 624.00px; height: 468.00px;">
+    <img alt="" src="https://lh3.googleusercontent.com/FPOicDDyHstzWLntAc90NspocZDywa4wLXalfHV-ItayAfBRwC5_Y0HIN36Rubr970bUFnj3Q2VLEouJUP5khgHx_Z1bTzLUxpxvLfS3UfHPZ02B1ni3Vs0DcdtAmsJVaTN_nt-U" style="width: 624.00px; height: 468.00px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""/>
+   </span>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Getting Started With Django
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Django is a python framework used to write websites. It's useful because it abstracts away a lot of the gritty details of database management and makes it easy to reuse html forms to display a lot similar data on different pages (such as the projects and inventory). If you know know
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    python, all of the concepts I've used to write this webpage are explained here. If you can read through and understand that, you can work on the structure of this website.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Styling This Webpage With Bootstrap
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    This was the first time I ever styled a website, and without Bootstrap this site really wouldn't have come together so fast. This website uses a slightly customized version of Bootstrap, that was generated using Sass (an extension of the css styling language). This video is a great reference for learning how to use that.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Using the Google Drive API
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Documenting projects is always an afterthought, and I personally find styling websites really tedious. So, I thought, why not just let google help me? All of these project pages are located in a google folder, that I have a script scrape for. There are some current limitations, but for populating the whole website it goes pretty far.
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    Webscraping Inventory Links
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;height:11pt;text-align:left'>
+   <span style='color:#000000;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+   </span>
+  </p>
+  <p style='padding:0;margin:0;color:#000000;font-size:11pt;font-family:"Arial";line-height:1.15;orphans:2;widows:2;text-align:left'>
+   <span style='color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:11pt;font-family:"Arial";font-style:normal'>
+    For those who want to get some experience with webscraping, it takes a
+   </span>
+  </p>
+ </body>
+</html>

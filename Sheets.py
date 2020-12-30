@@ -20,6 +20,7 @@ class Service():
         self.getCred()
         self.service=build( 'sheets', 'v4', credentials = self.creds)
     def getCred(self):
+        # flow = InstalledAppFlow.from_client_secrets_file('credentials.json', self.SCOPES)
         if os.path.exists('token.pickle'):
             with open('token.pickle', 'rb') as token:
                 self.creds = pickle.load(token)

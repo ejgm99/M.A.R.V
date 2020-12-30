@@ -20,6 +20,9 @@ class Service:
         self.getCred()
         self.service=build( 'drive', 'v3', credentials = self.creds)
     def getCred(self):
+        # flow = InstalledAppFlow.from_client_secrets_file(
+        #     'credentials.json', self.SCOPES)
+        # self.creds = flow.run_local_server(port=0)
         if os.path.exists('token.pickle'):
             with open('token.pickle', 'rb') as token:
                 self.creds = pickle.load(token)
@@ -27,6 +30,7 @@ class Service:
             if self.creds and self.creds.expired and self.creds.refresh_token:
                 self.creds.refresh(Request())
             else:
+                print("token not working, trying credentials file")
                 flow = InstalledAppFlow.from_client_secrets_file(
                     'credentials.json', self.SCOPES)
                 self.creds = flow.run_local_server(port=0)
@@ -36,7 +40,7 @@ class Service:
         self.service = build('drive', 'v3', credentials=self.creds) #used in setup to get permission to access google drive
     def MassEdits(self, ids, field, Editor): #edits should take in a service, and ids at the minimum
         for id in ids:
-            EditField(id[1], 'name', Editor(id[0]))
+            self.EditField(id[1], 'name', Editor(id[0]))
     def EditField(self, id, field, replacement = None, Editor = None):
         untitled = self.service.files().get(fileId = id,fields=field).execute()
         if Editor:
@@ -61,7 +65,7 @@ class Service:
         title = self.service.files().get(fileId = id, fields ="name").execute()['name']
         soup = bs(request,features="html.parser")
         pretty = soup.prettify()
-        HTML = open(title,"w")
+        HTML = open("doc_html/"+title,"w")
         HTML.write(pretty)
         HTML.close()
-        return title
+        return "doc_html/"+title
