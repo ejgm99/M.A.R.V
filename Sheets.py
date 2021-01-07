@@ -40,7 +40,7 @@ class Service():
         spreadsheet = {'properties': {'title': title}}
         spreadsheet = self.service.spreadsheets().create(body=spreadsheet,fields='spreadsheetId').execute()
         print('Spreadsheet ID: {0}'.format(spreadsheet.get('spreadsheetId')))
-    def getTitle(self):
+    def getTitle(self): #this is a function that just generates a new title when a new spreadsheet has been activated
         return  str(datetime.date.today().year) +"-"+ str(datetime.date.today().month) +"-"+ str(datetime.date.today().day)
     def addItem(self):
         list = [['Item'], ['Price'], ['Quantity'],['Cost'],['Link']]
@@ -50,3 +50,19 @@ class Service():
             range=range,
             body=resource,
             valueInputOption="USER_ENTERED").execute()
+    def readItems(self,spreadsheetID,query):
+        request = self.service.spreadsheets().values().get(spreadsheetId = spreadsheetID, range = query).execute()
+        return request["values"]
+
+sheets = Service()
+s = sheets.service.spreadsheets()
+
+SAMPLE_SPREADSHEET_ID = '1sYwnuQwrkl7gPwE1J7Nl97uzWajXcTb2KuBiVWnhH-Q'
+SAMPLE_RANGE_NAME = 'A:C'
+
+
+result = s.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,range = SAMPLE_RANGE_NAME).execute()
+result
+type(result)
+result.keys()
+len(result["values"])

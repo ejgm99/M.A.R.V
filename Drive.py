@@ -49,11 +49,11 @@ class Service:
             untitled[field] = replacement
         self.service.files().update(fileId = id, body = untitled).execute()
     def getChilds(self, id):#returns id and title of every child in a drive
-        out = []
+        out = {}
         rChildren = self.service.files().list(q="'"+id+"' in parents", fields='files(id, name, parents)').execute()
         for item in rChildren['files']:
             results = self.service.files().get(fileId = item['id']).execute()
-            out = out + [(results['name'],results['id'])]
+            out[results['name']]=results['id']
         return out
     def allChilds(self, id):#goes through every folder in drive file given by id
         out = [];

@@ -1,0 +1,243 @@
+neopixel 1 https://www.adafruit.com/product/1463
+Stepper Drivers 5 https://www.amazon.com/Hobbypower-StepStick-Stepper-Driver-Printer/dp/B00MQR93QC
+OpenMV 1 sparkfun
+[07/Jan/2021 12:23:28] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+
+(base) C:\Users\ejgm\Documents\S\W\blaster_hackers>['Mcmaster Carr', '55', '1', '55']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Stepper Motor Controller', '$9', '2', '$18']['', '', '', '0']['Cheap Brushless Motorcontroller', '78.99', '1', '$49.95'][][]['', '', '', '$230.01']['PCB engraver', '$35', 'https://www.sparkfun.com/products/14816', '', '$120']['PCB engraver', '$35', 'https://www.sparkfun.com/products/14815']['PCB', '$15', 'https://www.sparkfun.com/products/14979']['PCB', '$10', 'https://www.sparkfun.com/products/14975']['PCB', '$15', 'https://www.sparkfun.com/products/14976']['PCB', '$10', 'https://www.sparkfun.com/products/14974']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '3', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$463.42']['', '', '', '0']['', '', '', '0']['Fume Extractor', '$35.99', 'https://www.amazon.com/Aoyue-AO486-Benchtop-Solder-Absorber/dp/B001RLZGKK']['Replacement Filters', '$12.99', 'https://www.amazon.com/dp/B07D5SBPN8']['Solder Reel', '$8.95', 'https://www.amazon.com/dp/B00PQF98X4']['Soldering Tips', '$9.99', 'https://www.amazon.com/Baitaihem-11pcs-Solder-Soldering-Station/dp/B00J045ZVQ']['Helping Hands', '$24.49', 'https://www.amazon.com/Soldering-Station-Helping-Hands-WorkBench/dp/B07216PKP4']['Heat Shrink Tubing', '$8.99', 'https://www.amazon.com/560PCS-Heat-Shrink-Tubing-Eventronic/dp/B072PCQ2LW']['Perf Board', '$10.86', 'https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F']['Silicone Soldering Mat', '$6.99', 'https://www.amazon.com/Insulation-Silicone-Position-Soldering-Computer/dp/B06Y5KRFYR']['soldering kit 1', '$9.89', 'https://www.amazon.com/TraGoods-Soldering-Practice-Electronics-detecting/dp/B07FTQG12G']['soldering kit 2', '$13.99', 'https://www.amazon.com/Generator-KKmoon-Precision-Adjustable-Frequency/dp/B01HM70CMY']['Reflow Hot Air Gun', '$42.80', 'https://www.amazon.com/YAOGONG-Automatic-Digital-Soldering-Warranty/dp/B076G1T8GN']['Solder Paste', '$12.98', 'https://www.amazon.com/Solder-Paste-Sn63-Pb37-clean/dp/B07BH5LP5G/']['Breadboards', '$11.99', 'https://www.amazon.com/FICBOX-points-Solderless-Breadboard-Pack/dp/B01NARN7SM']['Vice', '$26.67', 'https://www.amazon.com/Yost-LV4-Home-Vise-41']['Male to Male jumpers', '$5.99', 'https://www.amazon.com/GenBasic-Solderless-Dupont-Compatible-Breadboard-Prototyping/dp/B01L5UJ36U']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '0'][][][][][][][][][][][][][][][][][]['Name', 'I. Price', 'Quantity', 'Price', 'Link'][]['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '$0.00']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '16']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Name', 'I. Price', 'Quantity', 'Price', 'Link']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Mcmaster Carr', '55', '1', '55']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '', '0']['Stepper Motor Controller', '$9', '2', '$18']['', '', '', '0']['Cheap Brushless Motorcontroller', '78.99', '1', '$49.95'][][]['', '', '', '$230.01']['PCB engraver', '$35', 'https://www.sparkfun.com/products/14816', '', '$120']['PCB engraver', '$35', 'https://www.sparkfun.com/products/14815']['PCB', '$15', 'https://www.sparkfun.com/products/14979']['PCB', '$10', 'https://www.sparkfun.com/products/14975']['PCB', '$15', 'https://www.sparkfun.com/products/14976']['PCB', '$10', 'https://www.sparkfun.com/products/14974']['', '', '', '0']['', '', '', '0']['', '', '', '0']['', '', '3', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '', '', '$0.00']['', '',
+'['Mcmaster' is not recognized as an internal or external command,
+operable program or batch file.
+
+(base) C:\Users\ejgm\Documents\S\W\blaster_hackers>
+(base) C:\Users\ejgm\Documents\S\W\blaster_hackers>
+(base) C:\Users\ejgm\Documents\S\W\blaster_hackers>python manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 07, 2021 - 12:23:52
+Django version 3.1.4, using settings 'blaster_hackers.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+Surgical Tubing 1 https://www.amazon.com/TOPRADE-Slingshot-Catapult-Accessories-Professional/dp/B07FLD65NM
+Line Follow Kit 2 https://www.amazon.com/WHDTS-Soldering-Following-Electronics-Competition/dp/B0732Z1FZC
+Googly Eyes 1 https://www.amazon.com/Adhesive-Wiggle-Googly-Assorted-Decorations/dp/B07K6DVLH8
+Induction Heater 1 https://www.amazon.com/Yosoo-Voltage-Induction-Heating-12V-48V/dp/B01C70G7Y8/
+Graphite Crucible 1 https://www.amazon.com/Lucksender-Graphite-Crucible-Supply-Articles/dp/B010EXHYDS
+Crucible Tongs 1 https://www.amazon.com/SEOH-CRUCIBLE-TONGS-Stout-plated/dp/B001ACVEC0/
+Geiger Counter Solid State 1 https://www.sparkfun.com/products/14209
+Soldering Station 2 https://www.amazon.com/Soldering-Station-Temperature-Ergonomic-Different/dp/B07GZHN7NX/
+ 1 https://www.amazon.com/Pneumatic-Meters-SAEJ844-Tubing-Transfer/dp/B074KD1DCH/ref=pd_bxgy_328_img_2/145-6513216-0456036?_encoding=UTF8&pd_rd_i=B074KD1DCH&pd_rd_r=c10a679a-2ff8-11e9-87d6-95e423dc0d71&pd_rd_w=y5C7I&pd_rd_wg=oOwy2&pf_rd_p=6725dbd6-9917-451d-beba-16af7874e407&pf_rd_r=JXN0NDVWAFF3B5B60TYJ&psc=1&refRID=JXN0NDVWAFF3B5B60TYJ
+assorted fittings 3 https://www.amazon.com/Connect-Fittings-Pneumatic-Spliters-Straight/dp/B076C25CDW?ref_=Oct_RAsinC_Ajax_580146011_5&pf_rd_r=H6FNQMRN1MCXAQ59WRH0&pf_rd_p=08b26267-c292-5fea-8eaa-3e96244fb38b&pf_rd_s=merchandised-search-6&pf_rd_t=101&pf_rd_i=580146011&pf_rd_m=ATVPDKIKX0DER
+Butcher Paper Roll 1 https://www.amazon.com/Kraft-Paper-Roll-150ft-Brown/dp/B01N6584SD
+dual shaft stepper motors 1 https://www.amazon.com/gp/offer-listing/B07C1H4ZYQ/ref=dp_olp_new_mbc?ie=UTF8&condition=new
+[07/Jan/2021 12:24:05] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+PLA Filament 19.99 https://www.amazon.com/HATCHBOX-Printer-Filament-Dimensional-Accuracy/dp/B07MJRD7J1
+Hinges 20 https://www.amazon.com/Aluminum-Extrusion-Profile-Install-Kit-4pcs/dp/B07FNRS3P8/
+Big Heat Sink  30 https://www.amazon.com/Cooler-Master-RR-212S-20PK-R1-Contact-Silencio/dp/B07H25DYM3/
+Optocouplers 8.99 https://www.amazon.com/NOYITO-4-Channel-Optocoupler-Isolation-Photoelectric/dp/B07GMHLL2M
+Neodymium Magnets 10 https://www.amazon.com/FINDMAG-100Pieces-Magnetic-Whiteboard-Refrigerator/dp/B077K364Z7/ref=pd_day0_hl_79_3?_encoding=UTF8&pd_rd_i=B077K364Z7&pd_rd_r=0b3cc4ef-2e94-11e9-a334-33fa5821b81e&pd_rd_w=Zp0A0&pd_rd_wg=pqIPF&pf_rd_p=ad07871c-e646-4161-82c7-5ed0d4c85b07&pf_rd_r=1KF0RPG798YTYYCYJENT&psc=1&refRID=1KF0RPG798YTYYCYJENT
+etch a sketch 15 https://www.amazon.com/Etch-A-Sketch-Classic-Red/dp/B01MTS465O/ref=sr_1_4?s=toys-and-games&ie=UTF8&qid=1549984235&sr=1-4&keywords=etch+a+sketch
+ball casters 3 https://www.sparkfun.com/products/8909
+[07/Jan/2021 12:24:06] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Power Strip 2 Pack 3 https://www.amazon.com/AmazonBasics-6-Outlet-Surge-Protector-2-Pack/dp/B014EKQ5AA
+Command Strips 1 https://www.amazon.com/Command-Picture-Hanging-18-Pairs-PH202-18NA/dp/B073XS3CHW
+dustpan+brush 1 https://www.amazon.com/dp/B00DHHLAFC
+spray bottle 1 https://www.amazon.com/Bar5F-Bottle-Adjustable-Sprayer-Stream/dp/B01GGFMLV8
+Box cutter set 1 https://www.amazon.com/dp/B0754CNXWV/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B0754CNXWV
+cutting mat 1 https://www.amazon.com/Cutting-Mat-Craft-Knife-Set/dp/B079P5966X/
+ruler 1 https://www.amazon.com/Westcott-10416-Stainless-Steel-Office/dp/B0008GNP9E
+Binder 1 https://www.amazon.com/AmazonBasics-3-Ring-Binder-Inch-4-Pack/dp/B01BRGTWOA
+card sleeves 1 https://www.amazon.com/Toupeone-9-Pocket-Baseball-Sleeves-Protectors/dp/B07H3VDFFQ
+led bar 3 https://www.sparkfun.com/products/12661
+power connectors 1 https://www.amazon.com/DAYKIT-Female-2-1x5-5MM-Adapter-Connector/dp/B01J1WZENK/
+power connectors 1 https://www.amazon.com/Arayker-Pigtail-Connector-Adapter-Connectors/dp/B07HFFYQQT
+Adjustable Wrench set 1 https://www.amazon.com/IRWIN-VISE-GRIP-Adjustable-Wrench-2078706/dp/B000GR4AHQ
+Pi Camera 1 https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4
+black light 1 https://www.amazon.com/dp/B07DC1Z72J
+RC transmitter/receiver 1 https://www.amazon.com/Flysky-FS-i6X-Transmitter-FS-iA6B-Receiver/dp/B0744DPPL8
+Steppers 6 https://www.amazon.com/Stepper-Motor-Bipolar-64oz-Printer/dp/B00PNEQI7W
+assorted mill bits 1 https://www.amazon.com/HQMaster-Combination-Cutting-Including-Engraving/dp/B075M9JXJG
+Heat sink 1 https://www.amazon.com/Easycargo-40x40x11mm-Conductive-Thermoelectric-40mmx40mmx11mm/dp/B07JLQL63D
+thermal paste 1 https://www.amazon.com/GENNEL-Conductive-Silicone-Adhesive-Compound/dp/B072MSXHJD
+peltier elements 1 https://www.amazon.com/TEC1-12706-Heatsink-Thermoelectric-Cooling-Peltier/dp/B01IUVSSHW
+Tape for CNC 1 https://www.amazon.com/Nitto-Permacel-Double-Coated-Kraft/dp/B000QDL9GK
+particle photon 1 https://www.amazon.com/Particle-Reprogrammable-Development-Prototyping-Electronics/dp/B016YNU1A0/
+HV boost module 3 https://www.amazon.com/Vipe-3-6V-6V-Step-up-Voltage-Generator/dp/B01MQMSV95
+HV PSU 1 https://www.amazon.com/SainSmart-Voltage-Switching-Generator-Ignition/dp/B00ZTTVX4O
+12V Lithium Ion Battery 1 https://www.amazon.com/ExpertPower-Standard-Rechargeable-Battery-EXP1270-2/dp/B00AAZJ9Y8/ref=sr_1_36_sspa?ie=UTF8&qid=1547743469&sr=8-36-spons&keywords=lithium+ion+battery+12v&psc=1
+CR-10  1 https://www.amazon.com/HICTOP-Creality-Printer-Filament-300x300x400mm/dp/B074QLQSQV/ref=sr_1_2_sspa?s=industrial&ie=UTF8&qid=1547743914&sr=1-2-spons&keywords=cr-10&psc=1
+PLA Filament 1 https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B07MFFZPSQ/ref=pd_bxgy_328_img_2?_encoding=UTF8&pd_rd_i=B00J0ECR5I&pd_rd_r=62767a16-1a78-11e9-b348-b77a6882f5e4&pd_rd_w=Zlo66&pd_rd_wg=ZyYD6&pf_rd_p=3f9889ac-6c45-46e8-b515-3af650557207&pf_rd_r=13V1G6150EWF80XN9R7B&refRID=13V1G6150EWF80XN9R7B&th=1
+[07/Jan/2021 12:24:06] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Lithium Ion Battery - 400mAh 1 https://www.sparkfun.com/products/13851
+Arduino Pro Mini 1 https://www.amazon.com/Arduino-Pro-Mini-328-16MHz/dp/B004G53J5I
+FTDI Breakout 1 https://www.amazon.com/SparkFun-FTDI-Basic-Breakout-5V/dp/B0068QKQEA
+Hall Effect Sensors 5 https://www.adafruit.com/product/158
+Neodinium Magnets 1 https://www.amazon.com/Neodymium-Magnets-Permanent-Handcraft-Scientific/dp/B077LCCGMM
+DC 12V 1000RPM Powerful High Torque Magnetic Electric Gear Box Motor 1 https://www.amazon.com/uxcell-1000RPM-Powerful-Magnetic-Electric/dp/B00FH7Y5P2
+Flex Sensor 4.5" 5 https://www.sparkfun.com/products/8606
+Waterproof Servo 2 https://www.amazon.com/Digital-Waterproof-Mechanical-Fittings-Control/dp/B07G33GTF7?keywords=snail+gear&qid=1536534848&sr=8-14&ref=mp_s_a_1_14
+Dremel 1 https://www.amazon.com/Dremel-4300-5-Performance-Attachments-Accessories/dp/B01M1SJNVU/ref=sr_1_1_sspa?ie=UTF8&qid=1538007103&sr=8-1-spons&keywords=dremel&psc=1
+[07/Jan/2021 12:24:06] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+[07/Jan/2021 12:24:07] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Scisors 1 https://www.amazon.com/Westcott-13901-Straight-Titanium-Scissors/dp/B000P0LNRE/ref=sr_1_1_sspa?ie=UTF8&qid=1539356421&sr=8-1-spons&keywords=scissors&psc=1
+Tape Measure 1 https://www.amazon.com/dp/B07D9BN2TG/
+Steel Ruler 1 https://www.amazon.com/Shinwa-Stainless-Machinist-Engineer-Graduations/dp/B00LYA3OBC/
+Lipo Bag 1 https://www.amazon.com/COLCASE-Fireproof-Explosionproof-Charging-198x150x135mm/dp/B0719H46PF/
+High Voltage Diodes 1 https://www.amazon.com/2CL2FM-100mA-Voltage-Diode-Rectifier/dp/B074S8JT96/
+Scotch Tape 1 https://www.amazon.com/Scotch-Refillable-Dispenser-Engineered-Repairing/dp/B0000DH8HQ
+Pcb Etching Kit 1 https://www.amazon.com/MG-Chemicals-416-K-Piece-Photofabrication/dp/B005T8VOBM/
+Tiny Drill Bits 1 https://www.amazon.com/Xuchuan-10Pcs-Circuit-Carbide-0-3-1-2mm/dp/B014CXSZIO/
+CA Glue 1 https://www.amazon.com/Super-Glue-15187-12-Pack/dp/B000LGPD64/
+allen wrench set 1 https://www.amazon.com/dp/B07DQN87J2/
+AAA Batteries 1 https://www.amazon.com/RadioShack-AAA-Alkaline-Batteries-36-Pack/dp/B00T8ZRX08
+needle nose pliers 1 https://www.amazon.com/Needle-Pliers-Precision-Repair-6-Inch/dp/B01MZ1QRIU/
+2020 Al Connectors 1 https://www.amazon.com/PZRT-Aluminum-Profile-Connector-Accessories/dp/B076D76YDD/
+2020 Al Extrusion 1 https://www.amazon.com/ZYLtech-Black-Aluminum-Extrusion-Printer/dp/B07F6TT2LL/
+Clear Plastic Sheet 1 https://www.amazon.com/Icona-Bay-Polyethylene-Terephthalate-Shatterproof/dp/B06ZY9DSHM
+Rubber Feet 1 https://www.amazon.com/Outus-Transparent-Adhesive-Hemispherical-Trapezoid/dp/B01M7OAWNU
+2020 Hinges 1 https://www.amazon.com/Aluminum-Extrusion-Profile-Install-Kit-4pcs/dp/B07FNRS3P8/
+Laser Diodes 1 https://www.amazon.com/gp/product/B01ITK4PEO/
+[07/Jan/2021 12:24:07] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Tin Snips 1 https://www.amazon.com/Performance-Tool-W2043-Center-Aviation/dp/B002V0CDPM
+servo tester 1 https://www.amazon.com/LewanSoul-Channel-Digital-Over-Current-Protection/dp/B073XZH264/
+servo tester 1 https://www.amazon.com/Hobbypower-Consistency-Checker-Connection-Protection/dp/B075WTXBJ7/
+IR thermometer 1 https://www.amazon.com/HDE-Accuracy-Non-Contact-Temperature-Thermometer/dp/B009RUPQGW
+Power Supply 4 https://www.amazon.com/dp/B077BFQ2HM/
+neopixel 1 https://www.adafruit.com/product/1463
+Stepper Drivers 5 https://www.amazon.com/Hobbypower-StepStick-Stepper-Driver-Printer/dp/B00MQR93QC
+OpenMV 1 sparkfun
+[07/Jan/2021 12:24:07] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Micro SD Card 5 https://www.amazon.com/Kingston-16GB-microSDHC-microSD-SDCS/dp/B079H6PDCK/
+locking pliers 1 https://www.amazon.com/WORKPRO-3-piece-Locking-10-inch-Straight/dp/B0109PTUYM
+Edge Finder 1 https://www.amazon.com/Mitutoyo-050101-Edge-Finder-Shank/dp/B002SG7PPC
+Dremel Drill Press 1 https://www.amazon.com/Dremel-220-01-Rotary-Workstation-Station/dp/B00068P48O
+silver sharpie 1 https://www.amazon.com/dp/B001AZ3KHY/ref=psdc_1069802_t2_B01N4TZSSO
+led matrix 1 https://www.amazon.com/panels-digital-module-display-P3-19296mm/dp/B079JSKF21/
+GSM Module 1 https://www.amazon.com/SODIAL-Quad-Band-Modules-Development-Arduino/dp/B077953H5P
+screw set 1 https://www.amazon.com/GOLRISEN-Stainless-Assortment-Printing-Projects/dp/B07FGRP4M7
+joystick modules 1 https://www.amazon.com/YIYATOO-Joystick-Breakout-Controller-Arduino-PS2/dp/B07CKLDTG3/
+2020 hardware 1 https://www.amazon.com/dp/B07GXGP3K3
+2020 hardware 1 https://www.amazon.com/dp/B07F2K8SN7/
+small trash can 1 https://www.amazon.com/Umbra-Skinny-Trash-Can-Wastebasket/dp/B004LLHECQ/
+[07/Jan/2021 12:24:07] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Steel Rod 1 https://www.amazon.com/Glarks-Stainless-Straight-Helicopter-Airplane/dp/B07KJ4NWNG/
+Dimmer 1 https://www.amazon.com/Dimming-Controller-Lights-Ribbon-Strip/dp/B0732LRMKL
+Nichrome 1 https://www.amazon.com/Nichrome-80-Gauge-Resistance-Wire/dp/B07CHTT73J
+M3 wing Nuts 1 https://www.amazon.com/PZRT-Stainless-Butterfly-Fastener-Hardware/dp/B07MBFRDRG
+big hardware assortment 1 https://www.amazon.com/Deluxe-Hardware-Assortment-Professional-Washers/dp/B076CVQZWG
+10 Nanos 1 https://www.amazon.com/Longruner-ATmega328P-Controller-Module-Arduino/dp/B01MSYWE6B/
+Wood Glue 1 https://www.amazon.com/Titebond-5064-Original-Wood-16-Ounces/dp/B0002YXDZ8/
+Clamps 1 https://www.amazon.com/WORKPRO-16-Piece-Spring-Muslin-Backdrops/dp/B0109K8F3O
+Power Supply 1 https://www.amazon.com/Supply-Transformer-AC100-240V-Switching-Adapter/dp/B075R3RW6J/
+ATX connector board 1 https://www.amazon.com/MonkeyJack-20-pin-Supply-Breakout-Module/dp/B077ZTRHN5
+ATX connectors 3 https://www.amazon.com/gp/offer-listing/B000FL60AI/
+Swivel Plate 1 https://www.amazon.com/OuYi-Swivel-Office-Replacement-OeSwivelPlate6/dp/B07HKBKHXP
+u brackets  1 https://www.amazon.com/Keadic-Bracket-Stainless-Tension-Assortment/dp/B07H22XSMX
+vice 1 https://www.amazon.com/Yost-LV4-Home-Vise-41/dp/B00YS401X0
+esp32 x3 1 https://www.amazon.com/Xiuxin-Development-Dual-Mode-Bluetooth-Antenna/dp/B07DBNHJW2
+Tin Snips 1 https://www.amazon.com/Performance-Tool-W2043-Center-Aviation/dp/B002V0CDPM
+servo tester 1 https://www.amazon.com/LewanSoul-Channel-Digital-Over-Current-Protection/dp/B073XZH264/
+servo tester 1 https://www.amazon.com/Hobbypower-Consistency-Checker-Connection-Protection/dp/B075WTXBJ7/
+IR thermometer 1 https://www.amazon.com/HDE-Accuracy-Non-Contact-Temperature-Thermometer/dp/B009RUPQGW
+Power Supply 4 https://www.amazon.com/dp/B077BFQ2HM/
+neopixel 1 https://www.adafruit.com/product/1463
+Stepper Drivers 5 https://www.amazon.com/Hobbypower-StepStick-Stepper-Driver-Printer/dp/B00MQR93QC
+OpenMV 1 sparkfun
+[07/Jan/2021 12:24:08] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+electrical tape 1 https://www.amazon.com/TradeGear-Electrical-ASSORTED-Rainbow-Colors/dp/B01LY3FG50/ref=sr_1_1_sspa?ie=UTF8&qid=1539217978&sr=8-1-spons&keywords=electrical+tape+colors&psc=1
+labels 1 https://www.amazon.com/dp/B01FLKQ77I/ref=sspa_dk_detail_0?psc=1&pd_rd_i=B01FLKQ77I&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f52e26da-1287-4616-824b-efc564ff75a4&pf_rd_r=HR3G2NSVE34VVE8DR74B&pd_rd_wg=mvnXK&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=FwcIu&pf_rd_i=desktop-dp-sims&pd_rd_r=d60c23f4-ccef-11e8-a1fa-3b320cf86cd1
+Whiteboards  1 https://www.amazon.com/Lockways-Dry-Erase-Whiteboard-Whiteboards/dp/B075SXJVV1/ref=sr_1_2_sspa?s=office-products&ie=UTF8&qid=1539219228&sr=1-2-spons&keywords=whiteboards&th=1
+velcro 1 https://www.amazon.com/JIHO-Adhesive-fastener-Mounting-Fastening/dp/B0773FK1Z3/ref=sr_1_1_sspa?ie=UTF8&qid=1539219239&sr=8-1-spons&keywords=velcro+strips+with+adhesive&psc=1
+tool chest 1 https://www.amazon.com/dp/B01JRYV6L6/ref=sspa_dk_detail_7?psc=1&pd_rd_i=B01JRYV6L6&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=f52e26da-1287-4616-824b-efc564ff75a4&pf_rd_r=F1W7TAAAGT5HXHG9DDEX&pd_rd_wg=Z56zc&pf_rd_s=desktop-dp-sims&pf_rd_t=40701&pd_rd_w=jVejB&pf_rd_i=desktop-dp-sims&pd_rd_r=2e5fcbbc-ccef-11e8-9fea-e722222b4194
+hot glue  1 https://www.amazon.com/RAGNAROS-High-Tech-Electronic-technology-INCLUDED/dp/B01N231LMY/ref=as_li_ss_tl?tag=shopperz_origin1-20&ascsubtag=991972678-2-1791773689.1539220020&SubscriptionId=AKIAJO7E5OLQ67NVPFZA
+drill 1 https://www.amazon.com/BLACK-DECKER-BDA91109-Combination-Accessory/dp/B009QYLOD8/ref=sr_1_4_acs_osp_osp20-179c01bb-fc_2?s=hi&ie=UTF8&qid=1539220165&sr=1-4-acs&keywords=drill+bit+set&tag=bestcont06-20&ascsubtag=179c01bb-fcc8-4d11-a081-90c8272e843c&linkCode=oas&cv_ct_id=amzn1.osp.179c01bb-fcc8-4d11-a081-90c8272e843c&cv_ct_pg=search&cv_ct_wn=osp-search&pf_rd_t=301&pd_rd_r=bd5273c9-7b03-4a5f-ae69-3aef315fe8a8&pf_rd_p=53b688eb-671a-4acd-886f-dc89fa36d3d2&pf_rd_r=GARWX3JAMNST4A8MHK14&pd_rd_w=ux7Kf&pf_rd_m=ATVPDKIKX0DER&pd_rd_wg=J384z&pf_rd_s=desktop-sx-inline&pf_rd_i=drill+bit+set&creativeASIN=B009QYLOD8&pd_rd_i=B009QYLOD8&pf_rd_r=GARWX3JAMNST4A8MHK14&pf_rd_t=301&pf_rd_s=desktop-sx-inline&pf_rd_p=53b688eb-671a-4acd-886f-dc89fa36d3d2&pd_rd_w=ux7Kf&pf_rd_i=drill+bit+set&pf_rd_m=ATVPDKIKX0DER&pd_rd_r=bd5273c9-7b03-4a5f-ae69-3aef315fe8a8&pd_rd_wg=J384z
+cabinets 2 https://www.amazon.com/Akro-Mils-10144-20-Inch-16-Inch-Hardware/dp/B01MAV3GQ6?SubscriptionId=AKIAJQUMBT74S4ZKCBTA&tag=makeradvisor-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B003P2UOCO&th=1
+[07/Jan/2021 12:24:09] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+ultrasonic levitator 1 https://www.makerfabs.com/index.php?route=product/product&product_id=508
+1M 1 W resistors  (2 sets of 30) 2 https://www.amazon.com/uxcell-Axial-Colored-Metal-Resistor/dp/B00SWK8RMI/ref=sr_1_2?s=industrial&ie=UTF8&qid=1537997321&sr=1-2&keywords=1M+Ohm+1W
+20kv 1 nF capacitors 1 https://www.amazon.com/voltage-capacitor-1000PF-20000V-original/dp/B07B9LBDLF/ref=sr_1_1?ie=UTF8&qid=1537997146&sr=8-1&keywords=1nf+20kv+capacitor
+10 kv neon sign transformer 1 https://www.amazon.com/Jantec-Sign-Group-10kv-Transformer/dp/B0083UK8LU
+solder wick 2 https://www.amazon.com/CHEMTRONICS-80-4-5-BRAID-DESOLDERING-ROSIN/dp/B005T8YJ9G/ref=asc_df_B005T8YJ9G/?tag=hyprod-20&linkCode=df0&hvadid=198064502357&hvpos=1o1&hvnetw=g&hvrand=3698105136042086643&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9028824&hvtargid=pla-348578386496&psc=1
+battery packs for rpi 1 https://www.amazon.com/Climbing-Portable-External-High-Speed-Charging/dp/B073Z9QRZ8/ref=sr_1_4?s=wireless&ie=UTF8&qid=1538006094&sr=1-4&keywords=mobile%2Bphone%2Bcharger&th=1
+thermal printer paper 1 https://www.adafruit.com/product/599
+thermal printer 1 https://www.adafruit.com/product/597
+dremel 1 https://www.amazon.com/Dremel-4300-5-Performance-Attachments-Accessories/dp/B01M1SJNVU/ref=sr_1_1_sspa?ie=UTF8&qid=1538007103&sr=8-1-spons&keywords=dremel&psc=1
+iFixit Pro Tech Toolkit 1 https://www.amazon.com/iFixit-Pro-Tech-Toolkit-Electronics/dp/B01GF0KV6G/ref=sr_1_1_sspa?ie=UTF8&qid=1538008228&sr=8-1-spons&keywords=electronics+repair+tool+kit&psc=1
+micro-usb data cable 5 https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B072J1BSV6/ref=sr_1_3?ie=UTF8&qid=1538008488&sr=8-3&keywords=micro+usb+charger%2Fdata+cable&dpID=41XjyUmoiNL&preST=_SX300_QL70_&dpSrc=srch
+dual motor controllers (5V-30V) 1 https://www.robotshop.com/en/cytron-10a-5-30v-dual-channel-dc-motor-driver.html
+7V lipos 2 https://www.robotshop.com/en/74v-2000mah-5c-lipo-battery.html
+Piezo Film Vibration Sensor 3 https://www.robotshop.com/en/piezo-film-vibration-sensor.html
+[07/Jan/2021 12:24:10] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+[07/Jan/2021 12:24:10] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Guitar Cable 1 https://www.amazon.com/dp/B00534NS2U/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B00534NS2U&pd_rd_w=juD18&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=5LTWP&pf_rd_r=1449EVJV4Y69NF5RJW2V&pd_rd_r=b1085b45-b636-47d0-812c-ff492d4b41a5&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVFE0STlUVTdVVUlWJmVuY3J5cHRlZElkPUEwOTkwMTk2MVRLVFFVVTNBVldLMyZlbmNyeXB0ZWRBZElkPUEwNjMxOTA2MVJQNUgySDlZMTdFSiZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+I2C Screen 1 https://www.amazon.com/UCTRONICS-SSD1306-Self-Luminous-Display-Raspberry/dp/B072Q2X2LL/ref=pd_cp_147_1/137-4265374-1950401?_encoding=UTF8&pd_rd_i=B072Q2X2LL&pd_rd_r=48624f2f-cbc6-45a1-aec5-305ca25d52d4&pd_rd_w=nfB4h&pd_rd_wg=nB8ms&pf_rd_p=592dc715-8438-4207-b7fa-4c7afdeb6112&pf_rd_r=PXJTZDY9SHQ8Q8GAJPPB&psc=1&refRID=PXJTZDY9SHQ8Q8GAJPPB
+DC barrel jack 1 https://www.amazon.com/Antrader-24pcs-Female-Socket-Connector/dp/B07CTCLKPP/ref=sr_1_2?crid=2ZC1O7ED92XOU&keywords=female+dc+power+jack+socket+connector+panel+mount&qid=1580603003&s=industrial&sprefix=femal+dc+power+jack+socket%2Cindustrial%2C174&sr=1-2
+Taps 1 https://www.amazon.com/OSOF-Adjustable-T-Handle-Ratchet-T-shaped/dp/B077HTXVR1/ref=sr_1_10?crid=3Q7DWX22SSA1R&keywords=metric+tap&qid=1580604501&s=industrial&sprefix=metric+tap%2Cindustrial%2C165&sr=1-10
+PCB Milling Set 1 https://www.amazon.com/Tungsten-Milling-Engraving-Drilling-0-5-3-175mm/dp/B07HQVGYZW/ref=pd_sbs_469_2/134-6278200-4243064?_encoding=UTF8&pd_rd_i=B07HQVGYZW&pd_rd_r=3714f682-91ca-4aec-9388-c3a7ce173c8b&pd_rd_w=qcAEm&pd_rd_wg=embR4&pf_rd_p=bdd201df-734f-454e-883c-73b0d8ccd4c3&pf_rd_r=SDYTYRQ293MSS1BW7CRT&psc=1&refRID=SDYTYRQ293MSS1BW7CRT
+Metric Measuring Set 1 https://www.amazon.com/Metric-Thread-Colors-Choose-Listing/dp/B01GIQNLGY/ref=sr_1_1?keywords=metric%2Bmeasure%2Bgauge&qid=1582922184&sr=8-1&th=1
+CNC tape 1 https://www.amazon.com/Nitto-Permacel-P-02-Double-Coated/dp/B000QDL9GK/ref=sr_1_2?keywords=nitto+tape&qid=1582923070&sr=8-2
+Silicon Covers 1 https://www.amazon.com/Printer-Silicone-FYSETC-Protect-Creality/dp/B07FFWMZ16/ref=sr_1_1_sspa?imprToken=n6iF6NzCJ7caLDJEJOEyCA&keywords=silicone+hot+end+covers&linkCode=w61&qid=1583101621&slotNum=0&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMUcxTUNGU0VLTFZUJmVuY3J5cHRlZElkPUEwMDAwNjUyMUNHVjk3MFY2ODYwQyZlbmNyeXB0ZWRBZElkPUEwMTU2MzYzUTNKOE5BSU4zSEY1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+M5 Screw Set(10 MM) 1 https://www.amazon.com/Yodaoke-100pcs-M5-0-8-Button-Socket/dp/B083K1XYJ5/ref=pd_sbs_60_4/141-5919496-6482746?_encoding=UTF8&pd_rd_i=B083K269P1&pd_rd_r=b08ee8be-a5ce-41fd-9075-51e01f57dd6d&pd_rd_w=NGicR&pd_rd_wg=HbqtZ&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=4H4EYZJMT3YF8ZJSNE9X&refRID=4H4EYZJMT3YF8ZJSNE9X&th=1
+Laser Module 1 https://jtechphotonics.com/?product=shapeoko3-all-in-one-laser-and-mounting-kit-bundle
+Organizer box 1 https://www.amazon.com/Deluxe-Hardware-Assortment-Professional-Washers/dp/B07RC2HVJ2?th=1
+Rubber Feet 1 https://www.amazon.com/Bumpers-Adhesive-Transparent-Dampening-Cabinet-MOZOLAND/dp/B075F1HW3S/ref=sr_1_5?keywords=rubber+feet&qid=1583192547&sr=8-5
+250nm to 520nm Laser Shielding – 24″ x 24″ 1 https://jtechphotonics.com/?product=250nm-to-520nm-laser-shielding-24%e2%80%b3-x-24%e2%80%b3
+ABS Sheet 2 https://www.amazon.com/ABS-Plastic-Textured-Vacuum-Forming/dp/B07BX2BZDT/ref=pd_sbs_328_1/134-6278200-4243064?_encoding=UTF8&pd_rd_i=B07BX2BZDT&pd_rd_r=094b0b70-8bf8-4672-87ac-c5fede8b27da&pd_rd_w=z4wKp&pd_rd_wg=YKC6x&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=ZYESPYKCAJSTNV55F7FT&psc=1&refRID=ZYESPYKCAJSTNV55F7FT
+Hatchbox Black PLA 2 https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0ECR5I/ref=sr_1_3?crid=28A6HSYVBP914&keywords=hatchbox+pla&qid=1583195732&s=industrial&sprefix=Hat%2Cindustrial%2C224&sr=1-3
+Coin Cell Battery 1 https://www.amazon.com/dp/B07T5DTHNY/ref=sspa_dk_detail_1?psc=1&pd_rd_i=B07T5DTHNY&pd_rd_w=eo7Xq&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=N3nVb&pf_rd_r=E5DFYEK6HG4CJTHXP13T&pd_rd_r=86c2c1c0-0b28-4b74-964e-15eb62c0ff73&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyS09UM0VKVEw2WEtDJmVuY3J5cHRlZElkPUEwNzQ5NTk2OEYxQ1I5WTBSSzFQJmVuY3J5cHRlZEFkSWQ9QTAxNTIyOTkxOVgxUjlEQ0pKWFAyJndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+Boost Converter 1 https://www.amazon.com/Eiechip-Voltage-Regulator-Converter-Module/dp/B07RNBJK5F/ref=sr_1_1_sspa?keywords=boost+converter&qid=1583196593&s=electronics&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWjlTTDNPV1RQMUUwJmVuY3J5cHRlZElkPUEwMjUxODE4MVpXU0c2MVlKOVU4TyZlbmNyeXB0ZWRBZElkPUEwNjc0Mzk5MlFCQlgzSU81MUEzUSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+Buck Converter 1 https://www.amazon.com/dp/B07RT95J4Q/ref=twister_B07RT95ZNR?_encoding=UTF8&psc=1
+SIlicone Wire 2 https://www.amazon.com/StrivedayTMFlexible-Silicone-Electric-electronic-electrics/dp/B01LH1G2IE/ref=sr_1_3?keywords=silicone+wire&qid=1583197185&s=industrial&sr=1-3
+[07/Jan/2021 12:24:11] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Micro-hdmi 1 https://www.amazon.com/Rankie-Micro-Supports-Ethernet-Return/dp/B00Z07JYLE/ref=sr_1_6?keywords=micro-hdmi&qid=1574635295&sr=8-6
+Wifi Adapter 1 https://www.amazon.com/Adapter-ac600Mbps%EF%BC%8CQGOO-Wireless-Network-OS10-6-10-13/dp/B07HK5CJ45/ref=sr_1_15?keywords=usb+wifi&qid=1574635369&sr=8-15
+Motor Controller 1 https://www.amazon.com/dp/B07XSG7MSV/ref=sspa_dk_detail_2?psc=1&pd_rd_i=B07XSG7MSV&pd_rd_w=PdHQc&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=WPmqj&pf_rd_r=7HJKBHBTXGJ92FZ7XAK8&pd_rd_r=643f7f90-1353-4687-937a-0c633d16d042&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUEw0TU5HMzZWREwxJmVuY3J5cHRlZElkPUEwOTc0MTE4MlFURUU0NlAxVldXSCZlbmNyeXB0ZWRBZElkPUEwMDkwMTc2M0dQOEFCQk8yTjRSQiZ3aWRnZXROYW1lPXNwX2RldGFpbCZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+5 V Relays 1 https://www.amazon.com/Valefod-1-Channel-Optocoupler-Isolation-Trigger/dp/B07WQH63FB/ref=sr_1_1_sspa?keywords=dc+relay&qid=1574637862&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWU9DMDlCS01QSk5SJmVuY3J5cHRlZElkPUEwNzU3NDI5Mjc1QlRGMUZKTFhGQSZlbmNyeXB0ZWRBZElkPUEwOTY2MjQzMVBKSVAxUzFTV01WQyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+RPi Power supply  1 https://www.amazon.com/Smraza-Compatible-Raspberry-Charger-Rotation/dp/B07VFDYNL4/ref=sr_1_1_sspa?keywords=rasbperry+pi+4+power+supply&qid=1574635856&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzODlaQ0Y0Mk80TDEwJmVuY3J5cHRlZElkPUExMDAxMjU5MUhUMzFYQVJLM0ZEVyZlbmNyeXB0ZWRBZElkPUEwMDc4MTg5MThEUExDS1JOSjQ1QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+Buck Converter 1 https://www.amazon.com/10pcs-Mini360-Voltage-Converter-Module/dp/B07T7L51ZW/ref=sr_1_27?keywords=buck+converter&qid=1574636019&sr=8-27
+Solder Paste 1 https://www.amazon.com/Synthetic-Rosin-Based-Activated-Circuit-Soldering/dp/B078RGS1H4/ref=sr_1_2_sspa?keywords=solder+paste&qid=1574638159&s=electronics&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzTk5BSkVaT0hJMUMwJmVuY3J5cHRlZElkPUEwMTAzNjE5MUM3R0w0RjVRSklaQSZlbmNyeXB0ZWRBZElkPUEwNjg2MTU0TFpHRFBLN1U2QUNSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+[07/Jan/2021 12:24:12] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Velleman Junior Theremin Electronic Kit 1 https://www.robotshop.com/en/velleman-junior-theremin-electronic-kit.html
+RPi 4 1 https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TD42S27/ref=sxin_2_ac_d_pm?ac_md=3-0-VW5kZXIgJDUw-ac_d_pm&keywords=raspberry%2Bpi%2B4&pd_rd_i=B07TD42S27&pd_rd_r=36eb8b6e-8805-4b31-9188-07212d9d482c&pd_rd_w=Rdea7&pd_rd_wg=vLXPd&pf_rd_p=02e79b16-eab7-4369-852f-d04a58a4d9b5&pf_rd_r=TCRD7D6ZCC5RMMTGX4ZZ&qid=1572388073&th=1
+Black Filament 1 https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0ECR5I/ref=sr_1_3?keywords=pla+filament&qid=1572388362&s=electronics&sr=1-3
+Blue Filament 1 https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GPC80/ref=pd_bxgy_img_3/131-6091619-7273649?_encoding=UTF8&pd_rd_i=B00J0GPC80&pd_rd_r=61113e78-0533-47cb-82ab-f4fefbb10a8d&pd_rd_w=0SzLt&pd_rd_wg=1mj85&pf_rd_p=09627863-9889-4290-b90a-5e9f86682449&pf_rd_r=E2SNSWCDQZF6SA6VT5E3&psc=1&refRID=E2SNSWCDQZF6SA6VT5E3
+Red Filament 1 https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GO8I0/ref=sr_1_6?keywords=pla+filament&qid=1572388362&s=electronics&sr=1-6
+DC Plugs 1 https://www.amazon.com/uxcell-50PCS-5-5mmx2-1mm-Mounting-Female/dp/B00MJVIFS2/ref=sr_1_6?keywords=dc%2Bpower%2Bjack&qid=1572388049&sr=8-6&th=1
+Female DC plugs 1 https://www.amazon.com/Ksmile%C2%AE-Female-2-1x5-5mm-Adapter-Connector/dp/B015OCV5Y8/ref=sr_1_30?keywords=dc+power+jack+female&qid=1572388710&sr=8-30
+[07/Jan/2021 12:24:12] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Baomain 4V210-08 DC 12V Single Head 2 Position 5 Way 4 Pneumatic Solenoid Valve w Base 1 https://www.amazon.com/Baomain-4V210-08-Position-Pneumatic-Solenoid/dp/B01D9HTQCS/ref=pd_lpo_sbs_469_img_2?_encoding=UTF8&psc=1&refRID=EGKRH9HYQA0NYYJXPRM0
+Smraza 5pcs Ultrasonic Module HC-SR04 Distance Sensor with 2pcs Mounting Bracket for Arduino UNO MEGA R3 Mega2560 Duemilanove Nano Robot XBee ZigBee S03 1 https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_3?crid=342BOEE8OGQXC&keywords=ultrasonic+distance+sensor&qid=1569003857&sprefix=ultrasonic+dist%2Caps%2C159&sr=8-3
+URBEST 10Pcs 1/4" PT Male Thread 6mm Straight Pneumatic Push in Quick Fitting Connectors for PETF Tube 1 https://www.amazon.com/URBEST-PT-Male-Thread-Connectors/dp/B01LWWTWDM/ref=pd_bxgy_60_img_2/131-6091619-7273649?_encoding=UTF8&pd_rd_i=B01LWWTWDM&pd_rd_r=cab26629-ae9e-420f-9901-134914c124b8&pd_rd_w=pM5za&pd_rd_wg=hE28P&pf_rd_p=a2006322-0bc0-4db9-a08e-d168c18ce6f0&pf_rd_r=4D0E8AYM6TVXM8E5VG8N&psc=1&refRID=4D0E8AYM6TVXM8E5VG8N
+KeeYees 5M GT2 Timing Belt 6mm Width + 4pcs 20 Teeth 5mm Bore Belt Pulley Wheel + 4pcs Idler + 4pcs Tensioner Spring Torsion + 2pcs Gear Clamp Mount Block with Allen Wrench for 3D Printer RepRap 1 https://www.amazon.com/KeeYees-Timing-Tensioner-Torsion-Printer/dp/B07JKT5BZQ/ref=sr_1_4?keywords=timing+belt+3d+printer&pd_rd_r=df45410b-3902-42c3-8eae-ccc413305bbf&pd_rd_w=fQTxU&pd_rd_wg=JpDOt&pf_rd_p=40a9039f-51eb-4146-81bc-7c99576627d3&pf_rd_r=Z5ZH9P85AZP9JECF8VMN&qid=1569004104&sr=8-4
+RUBBER MALLET 16 OZ by STEEL GRIP MfrPartNo 2259323
+ 1 https://www.amazon.com/RUBBER-MALLET-STEEL-MfrPartNo-2259323/dp/B015X6J6PU/ref=sr_1_1_sspa?keywords=mallet&qid=1569004317&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNkVINkhNUkY2T0g1JmVuY3J5cHRlZElkPUEwMTI5NDYwMUhOWVk1QTBFMzlGQyZlbmNyeXB0ZWRBZElkPUEwNjExMDU0MjBXVDVLRVg0NFdPWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+Hammer 1 https://www.amazon.com/Spifflyer-Hammer-Hammers-Polished-Comfortalbe/dp/B06XKBXHQP/ref=sr_1_1_sspa?keywords=hammer&qid=1569004378&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRMFZEWDJZRUZUTUcmZW5jcnlwdGVkSWQ9QTA3OTY3MjExNUU0UUVPTjcyTFU5JmVuY3J5cHRlZEFkSWQ9QTA4MjYwNzMyTUcyTlJNSE1TNEhEJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+Hacksaw 12-inch includes Reciprocating Blades,Adjustable Tension and Cutting Angle
+ 1 https://www.amazon.com/Hacksaw-12-inch-Reciprocating-Adjustable-Tension/dp/B07M9NN76H/ref=sr_1_2_sspa?keywords=hacksaw&qid=1569004398&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySE4yVE9VOThEWjQmZW5jcnlwdGVkSWQ9QTA3OTU5NzIxS1NKVDNHNFgyMlRWJmVuY3J5cHRlZEFkSWQ9QTA1ODgwMTFPNEpTQkJDOEpXWEEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
+Jumper Wires 1 https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD25V8D/ref=sr_1_3?keywords=jumper%2Bwire&qid=1569004664&sr=8-3&th=1
+Adafruit 5050 RGB LED with Integrated Driver Chip - 10 Pack 1 https://www.amazon.com/Adafruit-5050-Integrated-Driver-Chip/dp/B00SK8LY9A/ref=sr_1_40?keywords=neopixel&qid=1569005131&sr=8-40
+[07/Jan/2021 12:24:13] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+3PCS TB6600 4A 9-42V  1 https://www.amazon.com/Tenergy-Rechargeable-Connector-Airplanes-Aircrafts/dp/B001BCOWLY/ref=sr_1_1_sspa?keywords=NiMH+6V+2000mAh&qid=1565281680&s=gateway&sr=8-1-spons&psc=1
+3S Lipo Battery  1 https://www.amazon.com/dp/B07FQH19WJ/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B07FQH19WJ&pd_rd_w=QwCE3&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=RXF4B&pf_rd_r=145MF1WX89GDYZP3DC9K&pd_rd_r=dfe48548-8bf3-4564-85ec-47ebaa28a7b7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFVQlVCWjM4TFBIS0MmZW5jcnlwdGVkSWQ9QTA5MzkzMDQyMTlNTzVFWEdMM0FOJmVuY3J5cHRlZEFkSWQ9QTA1MTUzMDFQNVpSWVhWMjJDTzUmd2lkZ2V0TmFtZT1zcF9kZXRhaWwmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl
+2 Pack 45 C Lipo 1 https://www.amazon.com/FLOUREON-2Packs-4500mAh-Battery-Airplane/dp/B071HP7ND4/ref=sr_1_1?keywords=floureon+22.2+45c&qid=1567020720&s=toys-and-games&sr=1-1
+CR-10 Heaters & Thermistor 1 https://www.amazon.com/dp/B079NZG8SK/ref=sspa_dk_detail_9?psc=1&pd_rd_i=B079NZG8SK&pd_rd_w=pSBVj&pf_rd_p=45a72588-80f7-4414-9851-786f6c16d42b&pd_rd_wg=zKerl&pf_rd_r=22HXYB60R6ZDNZEJMCY8&pd_rd_r=dd354f2b-3773-4b06-b08f-f3a514c432f7&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNzFBRjUySjdKTzBDJmVuY3J5cHRlZElkPUEwMDU0MTMyMlNQTVhSVDJYWjJBNiZlbmNyeXB0ZWRBZElkPUEwNzMwMTI1S1A4QlExN0pKUzI5JndpZGdldE5hbWU9c3BfZGV0YWlsJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+[07/Jan/2021 12:24:13] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Beduan 12V Plastic Electric Solenoid Water Valve 1/2" 1 https://www.amazon.com/Beduan-Plastic-Electric-Solenoid-Water/dp/B07NWCRM75/ref=sr_1_6?keywords=1%2F2+solenoid+valve&qid=1561148307&s=industrial&sr=1-6
+6V NiMH 1 https://www.amazon.com/Tenergy-Rechargeable-Connector-Airplanes-Aircrafts/dp/B001BCOWLY/ref=sr_1_1?keywords=6v+lipo&qid=1561471059&s=gateway&sr=8-1
+Zip Ties, 500 Pieces 1 https://www.amazon.com/Adjustable-Durable-locking-Office-Workshop/dp/B075F78RX5/ref=sr_1_1_sspa?keywords=zip+ties&qid=1561471303&s=gateway&sr=8-1-spons&psc=1
+D Flip Flops 1 https://www.amazon.com/gp/product/B00CHTJX28/ref=ox_sc_act_title_1?smid=A15CV9OOBXMQ63&psc=1
+[07/Jan/2021 12:24:14] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Deans T Plug Connectors (pack of 20) 1 https://www.amazon.com/Connectors-Battery-Female-Shrink-MakerFun/dp/B0783ND5JB/ref=sr_1_4?crid=1TIB6G7MBQRYU&keywords=deans+connector&qid=1558302405&s=gateway&sprefix=deans+%2Caps%2C908&sr=8-4
+Bullet Connectors (pack of 10) 1 https://www.amazon.com/Finware-Upgrade-Female-Connectors-Battery/dp/B074S7NH3H/ref=sr_1_8?crid=60Z9MJS0PIPA&keywords=bullet+connectors&qid=1558302774&s=toys-and-games&sprefix=bullet+conne%2Ctoys-and-games%2C164&sr=1-8
+Timing belt 1 https://www.mcmaster.com/1679k522
+timing pulley 1 https://www.mcmaster.com/1428n43
+LM358 OP-Amp 1 https://www.amazon.com/dp/B07FSM5LGH/ref=sspa_dk_detail_6?psc=1
+NE555P Timer 4 https://www.amazon.com/Texas-Instruments-NE555P-Single-Precision/dp/B015TRZTFY/ref=sr_1_3?crid=37DP1OH5RCGIZ&keywords=555+timer+ic&qid=1558414999&s=gateway&sprefix=555%2Caps%2C166&sr=8-3
+[07/Jan/2021 12:24:15] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Ultrasonic Range Finders 1 https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/ref=sr_1_1_sspa?keywords=ultrasonic+sensor&qid=1567363479&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNDBUVE1FTjVLNTRWJmVuY3J5cHRlZElkPUEwMDM2ODM3N0M0MjU0R1o3NTRZJmVuY3J5cHRlZEFkSWQ9QTA0MjIwMTIyM0tIMTVOR0tTSUlBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+Tank chassis 1 https://www.amazon.com/makerbuying-Economy-German-Tiger-Chassis/dp/B07H92YCWT/ref=sr_1_30?crid=3T6W25EZCXRR7&keywords=robot+chassis&qid=1567363577&s=gateway&sprefix=robot+chas%2Caps%2C152&sr=8-30
+Motor shield 1 https://www.amazon.com/HiLetgo-Driver-Shield-Compatible-Duemilanove/dp/B01DG61YRM/ref=pd_bxgy_21_2/133-0682443-4486068?_encoding=UTF8&pd_rd_i=B01DG61YRM&pd_rd_r=e37b0b61-d680-4497-894f-ce01f02dab27&pd_rd_w=IZuYF&pd_rd_wg=kS4Tm&pf_rd_p=a2006322-0bc0-4db9-a08e-d168c18ce6f0&pf_rd_r=RQJB04A1FMGEPQ8ZGQ98&psc=1&refRID=RQJB04A1FMGEPQ8ZGQ98
+[07/Jan/2021 12:24:15] "POST /uploads/inventory/ HTTP/1.1" 200 1949
+Step-down power supply 1 https://www.amazon.com/UCTRONICS-Numerical-Stabilized-Converter-Adjustable/dp/B01LWXAC5E/ref=sr_1_4?crid=10TQVFURP6M1N&keywords=uctronics%2B50v%2B5a%2Bstep%2Bdown%2Bconverter&qid=1575757323&s=electronics&sprefix=uc%2Btronics%2Celectronics%2C162&sr=1-4&th=1
+36 v -5a power supple 1 https://www.amazon.com/5-6-5A-100V-240V-Transformer-Switching-Supply/dp/B074CJ8GNP/ref=sr_1_2?keywords=ac+dc+36v+5a+power+supply&qid=1575761837&s=industrial&sr=1-2
+[07/Jan/2021 12:24:16] "POST /uploads/inventory/ HTTP/1.1" 200 1949
